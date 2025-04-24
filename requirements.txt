@@ -1,13 +1,15 @@
+# /requirements.txt  (project root)
+
 # Streamlit & config
 streamlit>=1.40.1
 python-dotenv>=1.1.0
 
-# Numerical & image libs
+# Numerical & image
 numpy==1.21.6
 scikit-image==0.19.3
 pillow>=11.2.1
 opencv-python-headless==4.11.0.86
 
-# OCR stack
+# OCR
 paddlepaddle==3.0.0
 paddleocr==2.9.0
